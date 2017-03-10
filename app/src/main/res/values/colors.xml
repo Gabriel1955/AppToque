@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5dbf8e</color>
+    <color name="colorSegundaria">#ed1c24</color>
+    <color name="colorPrimaryDark">#279b61</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="ColorTextItemMain">#2c885a</color>
+
+    <color name="Branco">#FFF</color>
+    <color name="Preto">#000</color>
+    <color name="Azul">#00F</color>
+    <color name="Vermelho">#F00</color>
+    <color name="Verde">#0F0</color>
+</resources>
